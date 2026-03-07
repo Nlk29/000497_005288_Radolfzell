@@ -1,25 +1,25 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Zusi>
-<Info DateiTyp="Landschaft" Version="A.2" MinVersion="A.1" Beschreibung="	  l=27,4387187957764  kr=0,0029585799202323  ue=0	">
+<Info DateiTyp="Landschaft" Version="A.2" MinVersion="A.1" Beschreibung="	  l=2,71387195587158  kr=-0,00128137797582895  ue=0,00579278590157628	  l=2,71387195587158  kr=-0,00138858100399375  ue=0,00882211606949568	  l=2,71387195587158  kr=-0,00149578496348113  ue=0,0118514504283667	  l=2,71387195587158  kr=-0,00160298903938383  ue=0,0148807801306248	  l=2,71387195587158  kr=-0,00171019195113331  ue=0,0179101098328829	  l=2,71387195587158  kr=-0,00181739602703601  ue=0,020939439535141	  l=2,71387195587158  kr=-0,00192459998652339  ue=0,0239687692373991	  l=2,71387195587158  kr=-0,00203180289827287  ue=0,0269981008023024	  l=2,71387195587158  kr=-0,00213900697417557  ue=0,0300274193286896	  l=3,01387310028076  kr=-0,00224621105007827  ue=0,0330567508935928	">
 <AutorEintrag AutorID="29" AutorName="Jens Strumberg" AutorEmail="jens.strumberg@t-online.de"/>
 </Info>
 <Landschaft>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarBis="120" Vorlade="1" LODbit="8">
 <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\lod\Antrieb_L700H_rechts.lod0.ls3"/>
-<p X="0" Y="0.0018"/>
-<phi Z="0.003284"/>
+<p X="0" Y="-0.0008"/>
+<phi Z="-0.001422"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarAb="120" SichtbarBis="150" Vorlade="1" LODbit="6">
 <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\lod\Antrieb_L700H_rechts.lod1.ls3"/>
-<p X="0" Y="0.0018"/>
-<phi Z="0.003284"/>
+<p X="0" Y="-0.0008"/>
+<phi Z="-0.001422"/>
 <sk/>
 </Verknuepfte>
 <Verknuepfte Flags="16" BoundingR="3" SichtbarAb="150" SichtbarBis="450" Vorlade="1" LODbit="1">
 <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\lod\Antrieb_L700H_rechts.lod2.ls3"/>
-<p X="0" Y="0.0018"/>
-<phi Z="0.003284"/>
+<p X="0" Y="-0.0008"/>
+<phi Z="-0.001422"/>
 <sk/>
 </Verknuepfte>
 <Ankerpunkt AnkerTyp="19" Beschreibung="Anbaupunkt Weichennummernschild" Farbe="00FFFF00">

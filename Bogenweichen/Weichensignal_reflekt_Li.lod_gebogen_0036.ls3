@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Zusi>
-<Info DateiTyp="Landschaft" Version="A.2" MinVersion="A.1" Beschreibung="	  l=2,71387195587158  kr=-0,00128137785941362  ue=0,00579278636723757	  l=2,71387195587158  kr=-0,00138858146965504  ue=0,00882211606949568	  l=2,71387195587158  kr=-0,00149578519631177  ue=0,0118514457717538	  l=2,71387195587158  kr=-0,00160298880655318  ue=0,0148807764053345	  l=2,71387195587158  kr=-0,0017101924167946  ue=0,0179101061075926	  l=2,71387195587158  kr=-0,00181739614345133  ue=0,0209394358098507	  l=2,71387195587158  kr=-0,00192459975369275  ue=0,0239687655121088	  l=2,71387195587158  kr=-0,00203180336393416  ue=0,0269980952143669	  l=2,71387195587158  kr=-0,00213900697417557  ue=0,030027424916625	  l=3,01387310028076  kr=-0,00224621058441699  ue=0,0330567546188831	">
+<Info DateiTyp="Landschaft" Version="A.2" MinVersion="A.1" Beschreibung="	  l=73,9093322753906  kr=0,0029585799202323  ue=-0,0327249206602573	">
 <AutorEintrag AutorID="8" AutorName="Joerg Sanftleben" AutorEmail="joergsanftleben@aol.com"/>
 </Info>
 <Landschaft>
 <Verknuepfte BoundingR="5" SichtbarBis="250" Vorlade="1" LODbit="4">
 <Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\lod\Weichensignal_reflekt_Li.lod1.ls3"/>
-<p X="0.0042" Y="-0.0016" Z="0.0157"/>
-<phi Z="-0.00205"/>
+<p X="-0.0098" Y="0.0038" Z="-0.0678"/>
+<phi Z="0.004734"/>
 <sk/>
 </Verknuepfte>
 <Ankerpunkt Beschreibung="Laternenbock" Farbe="00FFFF00">
