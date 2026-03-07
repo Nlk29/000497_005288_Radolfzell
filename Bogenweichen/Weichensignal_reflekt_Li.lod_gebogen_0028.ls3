@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Landschaft" Version="A.2" MinVersion="A.1" Beschreibung="	  l=3,32310795783997  kr=0,00209018494933844  ue=-0,033777941018343	  l=3,32310795783997  kr=0,00200300803408027  ue=-0,0322445705533028	  l=3,32310795783997  kr=0,00191582995466888  ue=-0,0307111907750368	  l=3,32310795783997  kr=0,00182865303941071  ue=-0,0291778203099966	  l=3,32310795783997  kr=0,00174147495999932  ue=-0,0276444498449564	  l=3,32310795783997  kr=0,00165429699700326  ue=-0,0261110793799162	  l=3,32310795783997  kr=0,00156711996532977  ue=-0,0245777107775211	  l=3,32310795783997  kr=0,0014799420023337  ue=-0,0230443403124809	  l=3,32310795783997  kr=0,00139276403933764  ue=-0,0215109698474407	  l=3,62310290336609  kr=0,00130558700766414  ue=-0,0199775993824005	">
+<AutorEintrag AutorID="8" AutorName="Joerg Sanftleben" AutorEmail="joergsanftleben@aol.com"/>
+</Info>
+<Landschaft>
+<Verknuepfte BoundingR="5" SichtbarBis="250" Vorlade="1" LODbit="4">
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\lod\Weichensignal_reflekt_Li.lod1.ls3"/>
+<p X="-0.0095" Y="0.005" Z="-0.0678"/>
+<phi Z="0.004598"/>
+<sk/>
+</Verknuepfte>
+<Ankerpunkt Beschreibung="Laternenbock" Farbe="00FFFF00">
+<p/>
+<phi/>
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Laternenbock_Li.lod.ls3" NurInfo="1"/>
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\Laternenbock_Re.lod.ls3" NurInfo="1"/>
+</Ankerpunkt>
+<Animation AniBeschreibung="Grundstellung"/>
+<Animation AniBeschreibung="Umgestellt">
+<AniNrs AniNr="1"/>
+</Animation>
+<VerknAnimation AniNr="1" AniGeschw="1">
+<AniPunkt>
+<p/>
+<q W="1"/>
+</AniPunkt>
+<AniPunkt AniZeit="1">
+<p/>
+<q Z="-0.707107" W="0.707107"/>
+</AniPunkt>
+</VerknAnimation>
+</Landschaft>
+</Zusi>

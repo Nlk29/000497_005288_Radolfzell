@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Landschaft" Version="A.2" MinVersion="A.1" Beschreibung="	  l=3,32310795783997  kr=0,00209018494933844  ue=-0,033777941018343	  l=3,32310795783997  kr=0,00200300803408027  ue=-0,0322445705533028	  l=3,32310795783997  kr=0,00191582995466888  ue=-0,0307111907750368	  l=3,32310795783997  kr=0,00182865303941071  ue=-0,0291778203099966	  l=3,32310795783997  kr=0,00174147495999932  ue=-0,0276444498449564	  l=3,32310795783997  kr=0,00165429699700326  ue=-0,0261110793799162	  l=3,32310795783997  kr=0,00156711996532977  ue=-0,0245777107775211	  l=3,32310795783997  kr=0,0014799420023337  ue=-0,0230443403124809	  l=3,32310795783997  kr=0,00139276403933764  ue=-0,0215109698474407	  l=3,62310290336609  kr=0,00130558700766414  ue=-0,0199775993824005	">
+<AutorEintrag AutorID="29" AutorName="Jens Strumberg" AutorEmail="jens.strumberg@t-online.de"/>
+</Info>
+<Landschaft>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="120" Vorlade="1" LODbit="8">
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\lod\Antrieb_L700H_rechts.lod0.ls3"/>
+<p X="0" Y="0.0031"/>
+<phi Z="0.003574"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarAb="120" SichtbarBis="150" Vorlade="1" LODbit="6">
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\lod\Antrieb_L700H_rechts.lod1.ls3"/>
+<p X="0" Y="0.0031"/>
+<phi Z="0.003574"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarAb="150" SichtbarBis="450" Vorlade="1" LODbit="1">
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\lod\Antrieb_L700H_rechts.lod2.ls3"/>
+<p X="0" Y="0.0031"/>
+<phi Z="0.003574"/>
+<sk/>
+</Verknuepfte>
+<Ankerpunkt AnkerTyp="19" Beschreibung="Anbaupunkt Weichennummernschild" Farbe="00FFFF00">
+<p X="-0.18" Y="-1.8"/>
+<phi/>
+<Datei Dateiname="Signals\Deutschland\Weichenbeschriftung\Weichenbeschriftung_Schild_Auswahl.signal.xml" NurInfo="1"/>
+</Ankerpunkt>
+</Landschaft>
+</Zusi>

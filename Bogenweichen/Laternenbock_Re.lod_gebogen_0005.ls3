@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Landschaft" Version="A.2" MinVersion="A.1" Beschreibung="	  l=31,7933406829834  kr=0,00344827608205378  ue=-0,0418886207044125	">
+<AutorEintrag AutorID="8" AutorName="Joerg Sanftleben" AutorEmail="joergsanftleben@aol.com"/>
+</Info>
+<Landschaft>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="250" Vorlade="1" LODbit="12">
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Signale\lod\Laternenbock-re.lod1.ls3"/>
+<p X="0.0114" Y="0.0044" Z="0.0868"/>
+<phi Z="0.005517"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="2" SichtbarBis="250" Vorlade="1" LODbit="12">
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Aufschuettung\lod\Schotteaufschuettung.lod1.ls3"/>
+<p X="0.0114" Y="0.0044" Z="0.1118"/>
+<phi Z="0.005517"/>
+<sk X="0.75"/>
+</Verknuepfte>
+<Ankerpunkt Farbe="00FFFF00">
+<p/>
+<phi/>
+</Ankerpunkt>
+<Ankerpunkt Farbe="00FFFF00">
+<p X="-0.2"/>
+<phi/>
+</Ankerpunkt>
+</Landschaft>
+</Zusi>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Landschaft" Version="A.2" MinVersion="A.1" Beschreibung="	  l=4,15945816040039  kr=-0,00089841109002009  ue=0,0211766697466373	  l=4,15945816040039  kr=-0,000977359828539193  ue=0,0233393907546997	  l=4,15945816040039  kr=-0,00105630897451192  ue=0,0255021005868912	  l=4,15945816040039  kr=-0,00113525695633143  ue=0,0276648197323084	  l=4,15945816040039  kr=-0,00121420598588884  ue=0,0298275407403708	  l=4,15945816040039  kr=-0,00129315501544625  ue=0,0319902487099171	  l=4,15945816040039  kr=-0,00137210404500365  ue=0,0341529697179794	  l=4,15945816040039  kr=-0,00145105202682316  ue=0,0363156795501709	  l=4,15945816040039  kr=-0,00153000105638057  ue=0,0384784005582333	  l=4,45945692062378  kr=-0,00160894996952266  ue=0,0406411103904247	">
+<AutorEintrag AutorID="33" AutorName="Alwin Meschede" AutorEmail="ameschede@gmx.de"/>
+</Info>
+<Landschaft>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarAb="200" SichtbarBis="500" Vorlade="1" LODbit="3">
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\lod\Antrieb_WA350.lod3.ls3"/>
+<p X="0" Y="-0.0006"/>
+<phi Z="3.140578"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="3" SichtbarBis="200" Vorlade="1" LODbit="4">
+<Datei Dateiname="PermanentWay\Deutschland\1435mm\Regeloberbau\Weichen\Antriebe\Elektrisch\lod\Antrieb_WA350.lod1.ls3"/>
+<p X="0" Y="-0.0006"/>
+<phi Z="3.140578"/>
+<sk/>
+</Verknuepfte>
+</Landschaft>
+</Zusi>
