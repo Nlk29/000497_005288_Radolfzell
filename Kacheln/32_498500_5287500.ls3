@@ -68,6 +68,498 @@
 <phi/>
 <sk/>
 </Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bruecken\Betonbruecke\Einzelteile\widerlager_1gleis_6m.lod.ls3"/>
+<p X="-204.1018" Y="-51.717" Z="404.8017"/>
+<phi Z="-2.388925"/>
+<sk X="1" Y="1" Z="1.3"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="RailwayObjects\Deutschland\Bruecken\Betonbruecke\Einzelteile\widerlager_1gleis_6m.lod.ls3"/>
+<p X="-234.008" Y="-78.4593" Z="404.8017"/>
+<phi Z="0.716428"/>
+<sk X="1" Y="1" Z="1.3"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="17" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000474_005303_Aulfingen\ObjekteAulfingen\27_Industrie\27_Industrie.lod.ls3"/>
+<p X="11.9961" Y="38.817" Z="396.842"/>
+<phi Z="-2.199115"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="17" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000474_005303_Aulfingen\ObjekteAulfingen\27_Industrie\27_Industrie.lod.ls3"/>
+<p X="-9.0391" Y="54.1217" Z="396.842"/>
+<phi Z="-2.199115"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="35" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000460_005690_Bestwig\Objekte\Bestwig_19_Busch\Bestwig_19_Halle_2.lod.ls3"/>
+<p X="-15.7062" Y="-3.3405" Z="397.0912"/>
+<phi Z="0.962113"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="21" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus5-1.lod.ls3"/>
+<p X="354.2103" Y="358.3298" Z="396.9596"/>
+<phi Z="-2.562361"/>
+<sk X="1.5" Y="1.5" Z="1.5"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="22" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus5-1.lod.ls3"/>
+<p X="298.6161" Y="428.5127" Z="397.799"/>
+<phi Z="-2.204025"/>
+<sk X="1.5" Y="1.5" Z="1.5"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\BudeAmAbzwNord\AltenbekenBudeAbzwNord.lod.ls3"/>
+<p X="327.0322" Y="402.3802" Z="397.4022"/>
+<phi Z="0.589049"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="21" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus5-1.lod.ls3"/>
+<p X="315.2821" Y="336.7282" Z="397.1669"/>
+<phi Z="3.659465"/>
+<sk X="1.5" Y="1.5" Z="1.5"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="22" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus5-1.lod.ls3"/>
+<p X="276.2296" Y="399.6254" Z="397.94"/>
+<phi Z="0.922843"/>
+<sk X="1.5" Y="1.5" Z="1.5"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="21" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus5-1.lod.ls3"/>
+<p X="282.7477" Y="317.1203" Z="397.1781"/>
+<phi Z="3.713461"/>
+<sk X="1.5" Y="1.5" Z="1.5"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="22" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus5-1.lod.ls3"/>
+<p X="253.8972" Y="369.3918" Z="398.0397"/>
+<phi Z="4.057073"/>
+<sk X="1.5" Y="1.5" Z="1.5"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="22" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus5-1.lod.ls3"/>
+<p X="224.8003" Y="343.8241" Z="397.9906"/>
+<phi Z="0.913025"/>
+<sk X="1.5" Y="1.5" Z="1.5"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus2-1.lod.ls3"/>
+<p X="215.7363" Y="276.1465" Z="397.3644"/>
+<phi Z="-2.562361"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus8-1.lod.ls3"/>
+<p X="192.3836" Y="262.709" Z="397.5464"/>
+<phi Z="-0.952295"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus1-1.lod.ls3"/>
+<p X="106.0778" Y="181.92" Z="397.1046"/>
+<phi Z="-0.692132"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus2-1.lod.ls3"/>
+<p X="26.4912" Y="80.2678" Z="397.4093"/>
+<phi Z="-2.250657"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus6-1.lod.ls3"/>
+<p X="42.8401" Y="103.7394" Z="397.4579"/>
+<phi Z="-0.677406"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="24" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus5-1.lod.ls3"/>
+<p X="227.0547" Y="468.1317" Z="397.8544"/>
+<phi Z="-2.348831"/>
+<sk X="1.7" Y="1.7" Z="1.7"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus8-1.lod.ls3"/>
+<p X="183.6364" Y="281.9395" Z="397.5527"/>
+<phi Z="-4.082857"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus8-1.lod.ls3"/>
+<p X="160.1785" Y="263.7161" Z="397.3533"/>
+<phi Z="-4.038678"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus6-1.lod.ls3"/>
+<p X="137.8572" Y="244.2622" Z="397.461"/>
+<phi Z="-4.006772"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus8-1.lod.ls3"/>
+<p X="114.5944" Y="223.9272" Z="397.5421"/>
+<phi Z="-3.908148"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus6-1.lod.ls3"/>
+<p X="94.9344" Y="199.8657" Z="397.3667"/>
+<phi Z="-3.834516"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus6-1.lod.ls3"/>
+<p X="76.4697" Y="177.2456" Z="397.4161"/>
+<phi Z="-3.844334"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus2-1.lod.ls3"/>
+<p X="56.6573" Y="156.7115" Z="397.2773"/>
+<phi Z="-3.836971"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus6-1.lod.ls3"/>
+<p X="38.7084" Y="132.6735" Z="397.1687"/>
+<phi Z="-3.785429"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus6-1.lod.ls3"/>
+<p X="20.7593" Y="108.6354" Z="397.1646"/>
+<phi Z="-3.785429"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus1-1.lod.ls3"/>
+<p X="2.8102" Y="84.5974" Z="397.151"/>
+<phi Z="-3.785429"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus2-1.lod.ls3"/>
+<p X="204.8937" Y="299.9276" Z="397.6157"/>
+<phi Z="0.571868"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus2-1.lod.ls3"/>
+<p X="172.3556" Y="325.0862" Z="397.8531"/>
+<phi Z="-2.452678"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus8-1.lod.ls3"/>
+<p X="149.1975" Y="306.0152" Z="397.8708"/>
+<phi Z="-0.837703"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus8-1.lod.ls3"/>
+<p X="126.0394" Y="286.9443" Z="397.773"/>
+<phi Z="-0.837703"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus1-1.lod.ls3"/>
+<p X="102.8813" Y="267.8733" Z="397.7849"/>
+<phi Z="-0.837703"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus1-1.lod.ls3"/>
+<p X="79.7233" Y="248.8023" Z="397.7015"/>
+<phi Z="-0.837703"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus1-1.lod.ls3"/>
+<p X="56.5653" Y="229.7314" Z="397.5637"/>
+<phi Z="-0.837703"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus6-1.lod.ls3"/>
+<p X="35.673" Y="208.2155" Z="397.593"/>
+<phi Z="-0.720629"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus1-1.lod.ls3"/>
+<p X="14.9011" Y="186.5702" Z="397.8224"/>
+<phi Z="-0.720629"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus6-1.lod.ls3"/>
+<p X="-2.8313" Y="162.398" Z="397.6895"/>
+<phi Z="-0.577999"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus2-1.lod.ls3"/>
+<p X="-20.3154" Y="138.0197" Z="397.6343"/>
+<phi Z="-0.577999"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus6-1.lod.ls3"/>
+<p X="-37.7997" Y="113.6414" Z="397.6517"/>
+<phi Z="-0.627087"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus1-1.lod.ls3"/>
+<p X="231.085" Y="410.1515" Z="397.8057"/>
+<phi Z="-3.770973"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus6-1.lod.ls3"/>
+<p X="209.1841" Y="389.649" Z="397.6715"/>
+<phi Z="-3.957505"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus1-1.lod.ls3"/>
+<p X="172.0739" Y="391.3669" Z="397.6282"/>
+<phi Z="2.326816"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus6-1.lod.ls3"/>
+<p X="151.493" Y="413.194" Z="397.5742"/>
+<phi Z="2.326816"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus6-1.lod.ls3"/>
+<p X="154.099" Y="434.0314" Z="397.6869"/>
+<phi Z="0.729449"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus6-1.lod.ls3"/>
+<p X="176.465" Y="454.025" Z="397.9044"/>
+<phi Z="0.729449"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus1-1.lod.ls3"/>
+<p X="152.2052" Y="355.3179" Z="398.0736"/>
+<phi Z="-3.961687"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus1-1.lod.ls3"/>
+<p X="129.5306" Y="335.6747" Z="398.0487"/>
+<phi Z="-3.961687"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus2-1.lod.ls3"/>
+<p X="106.8561" Y="316.0315" Z="398.2164"/>
+<phi Z="-3.961687"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus2-1.lod.ls3"/>
+<p X="84.1815" Y="296.3883" Z="397.8391"/>
+<phi Z="-3.961687"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus6-1.lod.ls3"/>
+<p X="61.507" Y="276.7451" Z="397.6343"/>
+<phi Z="-3.949415"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="13" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus2-1.lod.ls3"/>
+<p X="38.8324" Y="257.1019" Z="397.4957"/>
+<phi Z="-3.961687"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus6-1.lod.ls3"/>
+<p X="18.781" Y="234.8995" Z="397.2231"/>
+<phi Z="-3.794334"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus8-1.lod.ls3"/>
+<p X="-0.3044" Y="211.7542" Z="397.7675"/>
+<phi Z="-3.794334"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus2-1.lod.ls3"/>
+<p X="-19.3899" Y="188.6088" Z="397.7991"/>
+<phi Z="-3.794334"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus2-1.lod.ls3"/>
+<p X="-36.8898" Y="164.314" Z="398.0571"/>
+<phi Z="-3.66963"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus6-1.lod.ls3"/>
+<p X="-52.9485" Y="138.974" Z="397.9789"/>
+<phi Z="-3.66963"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus8-1.lod.ls3"/>
+<p X="-69.0072" Y="113.634" Z="397.8542"/>
+<phi Z="-3.66963"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus1-1.lod.ls3"/>
+<p X="127.2024" Y="390.8028" Z="397.6867"/>
+<phi Z="-0.776283"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus8-1.lod.ls3"/>
+<p X="105.7672" Y="369.814" Z="397.994"/>
+<phi Z="-0.776283"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus8-1.lod.ls3"/>
+<p X="84.3322" Y="348.8251" Z="398.2403"/>
+<phi Z="-0.776283"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus8-1.lod.ls3"/>
+<p X="62.897" Y="327.8363" Z="398.4349"/>
+<phi Z="-0.776283"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus6-1.lod.ls3"/>
+<p X="41.4618" Y="306.8474" Z="398.0742"/>
+<phi Z="-0.776283"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus1-1.lod.ls3"/>
+<p X="20.0266" Y="285.8586" Z="397.875"/>
+<phi Z="-0.776283"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus6-1.lod.ls3"/>
+<p X="-0.681" Y="264.1697" Z="397.7584"/>
+<phi Z="-0.717279"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus2-1.lod.ls3"/>
+<p X="-20.8411" Y="241.9535" Z="397.7402"/>
+<phi Z="-0.717279"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus8-1.lod.ls3"/>
+<p X="-40.7644" Y="219.5437" Z="398.1192"/>
+<phi Z="-0.612388"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus2-1.lod.ls3"/>
+<p X="-58.4878" Y="195.3387" Z="398.3937"/>
+<phi Z="-0.612388"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus2-1.lod.ls3"/>
+<p X="-76.2111" Y="171.1336" Z="398.311"/>
+<phi Z="-0.612388"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="14" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus2-1.lod.ls3"/>
+<p X="-93.9344" Y="146.9286" Z="398.2088"/>
+<phi Z="-0.612388"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="11" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000496_005734_Altenbeken\Objekte\Alt-Bek-Haeuser-Typ1\Alt-Bek-Haus8-1.lod.ls3"/>
+<p X="-111.6577" Y="122.7236" Z="397.9703"/>
+<phi Z="-0.612388"/>
+<sk X="1" Y="1" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="22" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0004_0057\000426_005703_Vosswinkel\Objekte\Vosswinkel_08_Klaerwerk\Vosswinkel_08_Klaer.lod.ls3"/>
+<p X="116.1649" Y="27.8559" Z="396.923"/>
+<phi Z="0.947387"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="15" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000531_005696_Immenhausen\Objekte\Immenhausen_07-Haus_am_Lagerschuppen\Klaerbecken_22m.lod.ls3"/>
+<p X="74.8251" Y="-75.271" Z="397.0053"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="12" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000531_005696_Immenhausen\Objekte\Immenhausen_07-Haus_am_Lagerschuppen\Klaerbecken_16m.lod.ls3"/>
+<p X="95.3068" Y="-90.3154" Z="396.8932"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000531_005696_Immenhausen\Objekte\Immenhausen_07-Haus_am_Lagerschuppen\Klaerbecken_12m.lod.ls3"/>
+<p X="109.7262" Y="-54.3302" Z="396.8684"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="9" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000531_005696_Immenhausen\Objekte\Immenhausen_07-Haus_am_Lagerschuppen\Klaerbecken_12m.lod.ls3"/>
+<p X="125.2086" Y="-32.8579" Z="396.8249"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="15" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000531_005696_Immenhausen\Objekte\Immenhausen_07-Haus_am_Lagerschuppen\Klaerbecken_22m.lod.ls3"/>
+<p X="153.2682" Y="-54.4492" Z="396.7141"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="15" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000531_005696_Immenhausen\Objekte\Immenhausen_07-Haus_am_Lagerschuppen\Klaerbecken_22m.lod.ls3"/>
+<p X="167.5226" Y="-35.4272" Z="396.6523"/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="27" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000495_005705_Westheim\Objekte\Westheim_09_Klaerwerk\Westheim_09_Klaer_50_20m.lod.ls3"/>
+<p X="56.0938" Y="-38.8242" Z="397.1331"/>
+<phi Z="-0.616047"/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="78" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0005_0057\000495_005705_Westheim\Objekte\Westheim_09_Klaerwerk\Westheim_09_Klaer_50_20m.lod.ls3"/>
+<p X="212.8645" Y="111.0055" Z="395.9939"/>
+<phi Z="-0.623411"/>
+<sk X="2" Y="3" Z="1"/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="1661" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32U_0006_0057\000563_005706_Rosdorf\Objekte\Rosdorf05_Fussballplatz\Rosdorf05_Fussballplatz_100x70.lod.ls3"/>
+<p X="31.2238" Y="-183.4242" Z="397.36"/>
+<phi Z="-0.061359"/>
+<sk/>
+</Verknuepfte>
 <lsb Dateiname="32_498500_5287500.lsb"/>
 <SubSet Cd="00FFFFFF" TypLs3="4" TypGF="3" BeleuchtungTyp="2" MeterProTex="10" MeshV="1131" MeshI="2679">
 <RenderFlags TexVoreinstellung="3"/>
@@ -181,6 +673,162 @@
 <RenderFlags TexVoreinstellung="1"/>
 <Textur>
 <Datei Dateiname="Terrain\Deutschland\Strassen\Allein\strasse_300cm.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="4" MeshV="5" MeshI="9">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\Allein\strasse_300cm.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="9" MeshI="21">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\Allein\schotterweg_2m.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="9" MeshI="21">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="4" MeshV="3" MeshI="3">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\Allein\strasse_300cm.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="4" MeshV="83" MeshI="243">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\Allein\strasse_300cm.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" MeterProTex="10" MeterProTex2="10" MeshV="60" MeshI="270">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="RailwayObjects\Deutschland\Bruecken\Betonbruecke\betonbruecke_gleis.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="4" MeshV="42" MeshI="120">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\Allein\strasse_300cm.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="4" MeshV="4" MeshI="6">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\Allein\strasse_300cm.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="4" MeshV="56" MeshI="162">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\Allein\strasse_300cm.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="4" MeshV="6" MeshI="12">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\Allein\strasse_300cm.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="4" MeshV="38" MeshI="108">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\Allein\strasse_300cm.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="4" MeshV="43" MeshI="123">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\Allein\strasse_300cm.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="4" MeshV="4" MeshI="6">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\Allein\strasse_300cm.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="4" MeshV="10" MeshI="24">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\Allein\strasse_300cm.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="34" MeshI="96">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\Allein\schotterweg_2m.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="7" MeshI="15">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Asphalt\ASPHALT-hellgrau.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypLs3="11" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="4" MeshI="6">
+<RenderFlags TexVoreinstellung="3"/>
+<Textur>
+<Datei Dateiname="Terrain\Default\embankment.dds"/>
+</Textur>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Strassen\Allein\schotterweg_2m.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" MeterProTex2="10" MeshV="4" MeshI="6">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Asphalt\ASPHALT-hellgrau.dds"/>
+</Textur>
+</SubSet>
+<SubSet Cd="00FFFFFF" TypGF="1" MeterProTex="10" zBias="-2" MeshV="6" MeshI="12">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Terrain\Deutschland\Asphalt\ASPHALT-hellgrau.dds"/>
 </Textur>
 </SubSet>
 </Landschaft>
