@@ -128,12 +128,6 @@
 <phi/>
 <sk/>
 </Verknuepfte>
-<Verknuepfte GruppenName="Nachbarmodul" BoundingR="11292" SichtbarBis="3000" Vorlade="1">
-<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000505_005284_Allensbach\Allensbach_1977.ls3"/>
-<p X="8000" Y="-4000"/>
-<phi/>
-<sk/>
-</Verknuepfte>
 <Verknuepfte Flags="4" BoundingR="708" SichtbarBis="3000" Vorlade="1">
 <Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Kacheln\32_499500_5288500.ls3"/>
 <p X="2500" Y="500"/>
@@ -170,6 +164,12 @@
 <phi/>
 <sk/>
 </Verknuepfte>
+<Verknuepfte Flags="4" BoundingR="717" SichtbarBis="3000" Vorlade="1">
+<Datei Dateiname="Routes\Deutschland\32T_0005_0053\000497_005288_Radolfzell\Kacheln\32_495500_5290500.ls3"/>
+<p X="-1500" Y="2500"/>
+<phi/>
+<sk/>
+</Verknuepfte>
 <Ankerpunkt AnkerKat="2" Beschreibung="Sbk 4 Lf6 Kz. 11" Farbe="00FFFF00">
 <p X="3603.314" Y="-984.601" Z="398.7232"/>
 <phi Z="2.458996"/>
@@ -184,11 +184,11 @@
 </Ankerpunkt>
 <Ankerpunkt AnkerKat="2" Beschreibung="Lf7 Kz 11" Farbe="00FFFF00">
 <p X="2796.2959" Y="-322.7888" Z="398.1127"/>
-<phi Z="2.436859"/>
+<phi Z="2.436858"/>
 </Ankerpunkt>
 <Ankerpunkt AnkerKat="2" Beschreibung="Vsig Fv" Farbe="00FFFF00">
 <p X="2244.041" Y="-93.994" Z="398.0713"/>
-<phi Z="3.124437"/>
+<phi Z="3.124438"/>
 </Ankerpunkt>
 <Ankerpunkt AnkerKat="2" Beschreibung="Ne2 Lsf Fv" Farbe="00FFFF00">
 <p X="2244.4919" Y="-103.105" Z="398.0713"/>
@@ -200,11 +200,11 @@
 </Ankerpunkt>
 <Ankerpunkt AnkerKat="2" Beschreibung="Esig F" Farbe="00FFFF00">
 <p X="1408.478" Y="-669.037" Z="398"/>
-<phi Z="4.123334"/>
+<phi Z="4.123333"/>
 </Ankerpunkt>
 <Ankerpunkt AnkerKat="2" Beschreibung="Lsf F" Farbe="00FFFF00">
 <p X="1416.652" Y="-674.205" Z="398"/>
-<phi Z="0.981754"/>
+<phi Z="0.981755"/>
 </Ankerpunkt>
 <Ankerpunkt AnkerKat="2" Beschreibung="Lf7 Kz. 11" Farbe="00FFFF00">
 <p X="1292.701" Y="-860.833" Z="398"/>
@@ -212,7 +212,7 @@
 </Ankerpunkt>
 <Ankerpunkt AnkerKat="2" Beschreibung="Ra10" Farbe="00FFFF00">
 <p X="1284.651" Y="-855.849" Z="398"/>
-<phi Z="4.134089"/>
+<phi Z="4.13409"/>
 </Ankerpunkt>
 <Ankerpunkt AnkerKat="2" Beschreibung="Vsig Sbk 3v" Farbe="00FFFF00">
 <p X="2863.051" Y="-389.575" Z="398.1191"/>
@@ -224,7 +224,7 @@
 </Ankerpunkt>
 <Ankerpunkt AnkerKat="2" Beschreibung="Vsig Sbk3vw" Farbe="00FFFF00">
 <p X="3409.9519" Y="-842.746" Z="398.5673"/>
-<phi Z="-0.681999"/>
+<phi Z="-0.682"/>
 </Ankerpunkt>
 <Ankerpunkt AnkerKat="2" Beschreibung="Sbk3" Farbe="00FFFF00">
 <p X="3635.467" Y="-1024.184" Z="398.7836"/>
@@ -232,7 +232,7 @@
 </Ankerpunkt>
 <Ankerpunkt AnkerKat="2" Beschreibung="Lf7 Kz. 14" Farbe="00FFFF00">
 <p X="2786.542" Y="-325.4241" Z="398.1123"/>
-<phi Z="-0.704688"/>
+<phi Z="-0.704687"/>
 </Ankerpunkt>
 <Ankerpunkt AnkerKat="2" Beschreibung="Ls" Farbe="00FFFF00">
 <p X="1291.549" Y="-856.08" Z="398"/>
@@ -244,7 +244,7 @@
 </Ankerpunkt>
 <Ankerpunkt AnkerKat="2" Beschreibung="Ls" Farbe="00FFFF00">
 <p X="1038.123" Y="-1056.151" Z="398"/>
-<phi Z="3.576458"/>
+<phi Z="3.576457"/>
 </Ankerpunkt>
 <Ankerpunkt AnkerKat="2" Beschreibung="Zsig S5" Farbe="00FFFF00">
 <p X="597.307" Y="-1044.043" Z="398"/>
@@ -252,7 +252,7 @@
 </Ankerpunkt>
 <Ankerpunkt AnkerKat="2" Beschreibung="Ls" Farbe="00FFFF00">
 <p X="421.632" Y="-975.921" Z="398"/>
-<phi Z="2.762492"/>
+<phi Z="2.762491"/>
 </Ankerpunkt>
 <Ankerpunkt AnkerKat="2" Beschreibung="Ls" Farbe="00FFFF00">
 <p X="320.052" Y="-940.582" Z="398"/>
@@ -260,19 +260,19 @@
 </Ankerpunkt>
 <Ankerpunkt AnkerKat="2" Beschreibung="Zs10" Farbe="00FFFF00">
 <p X="291.8101" Y="-924.443" Z="398"/>
-<phi Z="2.762492"/>
+<phi Z="2.762491"/>
 </Ankerpunkt>
 <Ankerpunkt AnkerKat="2" Beschreibung="P5" Farbe="00FFFF00">
 <p X="-307.094" Y="-543.397" Z="398"/>
-<phi Z="2.498433"/>
+<phi Z="2.498434"/>
 </Ankerpunkt>
 <Ankerpunkt AnkerKat="2" Beschreibung="Ls" Farbe="00FFFF00">
 <p X="-417.448" Y="-468.126" Z="398"/>
-<phi Z="-0.582644"/>
+<phi Z="-0.582643"/>
 </Ankerpunkt>
 <Ankerpunkt AnkerKat="2" Beschreibung="Zs6 Licht" Farbe="00FFFF00">
 <p X="-393.427" Y="-479.588" Z="398"/>
-<phi Z="2.511598"/>
+<phi Z="2.511599"/>
 </Ankerpunkt>
 <Ankerpunkt AnkerKat="2" Beschreibung="Ra10" Farbe="00FFFF00">
 <p X="-505.363" Y="-418.874" Z="398"/>
@@ -292,11 +292,11 @@
 </Ankerpunkt>
 <Ankerpunkt AnkerKat="2" Beschreibung="Vsig Av Lf6 Kz. 10" Farbe="00FFFF00">
 <p X="-1699.967" Y="56.18" Z="402.4627"/>
-<phi Z="-0.374568"/>
+<phi Z="-0.374569"/>
 </Ankerpunkt>
 <Ankerpunkt AnkerKat="2" Beschreibung="Vsig Bv Lf6 Kz. 10" Farbe="00FFFF00">
 <p X="-1697.145" Y="62.972" Z="402.4622"/>
-<phi Z="2.766988"/>
+<phi Z="2.766987"/>
 </Ankerpunkt>
 <Ankerpunkt AnkerKat="2" Beschreibung="Esig A Lf7 Kz. 10" Farbe="00FFFF00">
 <p X="-773.3721" Y="-307.7219" Z="398.7622"/>
@@ -308,11 +308,11 @@
 </Ankerpunkt>
 <Ankerpunkt AnkerKat="2" Beschreibung="Ls" Farbe="00FFFF00">
 <p X="-488.0481" Y="-427.979" Z="398"/>
-<phi Z="-0.506256"/>
+<phi Z="-0.506255"/>
 </Ankerpunkt>
 <Ankerpunkt AnkerKat="2" Beschreibung="Ls" Farbe="00FFFF00">
 <p X="-461.665" Y="-436.843" Z="398"/>
-<phi Z="2.599039"/>
+<phi Z="2.59904"/>
 </Ankerpunkt>
 <Ankerpunkt AnkerKat="2" Beschreibung="zsig E6" Farbe="00FFFF00">
 <p X="69.136" Y="-828.215" Z="398"/>
@@ -332,11 +332,11 @@
 </Ankerpunkt>
 <Ankerpunkt AnkerKat="2" Beschreibung="N6" Farbe="00FFFF00">
 <p X="840.431" Y="-1114.292" Z="398"/>
-<phi Z="-0.040665"/>
+<phi Z="-0.040664"/>
 </Ankerpunkt>
 <Ankerpunkt AnkerKat="2" Beschreibung="Ls" Farbe="00FFFF00">
 <p X="1177.889" Y="-977.4091" Z="398"/>
-<phi Z="3.81187"/>
+<phi Z="3.811871"/>
 </Ankerpunkt>
 <Ankerpunkt AnkerKat="2" Beschreibung="Ls" Farbe="00FFFF00">
 <p X="1247.184" Y="-918.741" Z="398"/>
@@ -344,7 +344,7 @@
 </Ankerpunkt>
 <Ankerpunkt AnkerKat="2" Beschreibung="Esig G Zs3 Kz. 6 Zs3v Kz. 4" Farbe="00FFFF00">
 <p X="1244.832" Y="-449.717" Z="398.0654"/>
-<phi Z="-1.295381"/>
+<phi Z="-1.295382"/>
 </Ankerpunkt>
 <Ankerpunkt AnkerKat="2" Beschreibung="Lsf G" Farbe="00FFFF00">
 <p X="1254.033" Y="-446.209" Z="398.0693"/>
@@ -352,7 +352,7 @@
 </Ankerpunkt>
 <Ankerpunkt AnkerKat="2" Beschreibung="El6" Farbe="00FFFF00">
 <p X="1284.76" Y="-793.061" Z="398"/>
-<phi Z="4.123336"/>
+<phi Z="4.123335"/>
 </Ankerpunkt>
 <Ankerpunkt AnkerKat="2" Beschreibung="El6" Farbe="00FFFF00">
 <p X="1277.702" Y="-791.499" Z="398"/>
@@ -364,7 +364,7 @@
 </Ankerpunkt>
 <Ankerpunkt AnkerKat="2" Beschreibung="Ls" Farbe="00FFFF00">
 <p X="1194.6331" Y="-943.793" Z="398"/>
-<phi Z="3.881779"/>
+<phi Z="3.88178"/>
 </Ankerpunkt>
 <Ankerpunkt AnkerKat="2" Beschreibung="Zs3 Kz. 4" Farbe="00FFFF00">
 <p X="1196.99" Y="-934.229" Z="398"/>
@@ -372,7 +372,7 @@
 </Ankerpunkt>
 <Ankerpunkt AnkerKat="2" Beschreibung="S3" Farbe="00FFFF00">
 <p X="601.448" Y="-1032.691" Z="398"/>
-<phi Z="2.807759"/>
+<phi Z="2.807758"/>
 </Ankerpunkt>
 <Ankerpunkt AnkerKat="2" Beschreibung="S4" Farbe="00FFFF00">
 <p X="600.4131" Y="-1038.239" Z="398"/>
@@ -396,7 +396,7 @@
 </Ankerpunkt>
 <Ankerpunkt AnkerKat="2" Beschreibung="Ls" Farbe="00FFFF00">
 <p X="1145.952" Y="-981.375" Z="398"/>
-<phi Z="3.755199"/>
+<phi Z="3.7552"/>
 </Ankerpunkt>
 <Ankerpunkt AnkerKat="2" Beschreibung="Vsig N1vw" Farbe="00FFFF00">
 <p X="798.22" Y="-1075.1" Z="398"/>
@@ -408,7 +408,7 @@
 </Ankerpunkt>
 <Ankerpunkt AnkerKat="2" Beschreibung="Esig N1" Farbe="00FFFF00">
 <p X="920.614" Y="-1081.9969" Z="398"/>
-<phi Z="3.362961"/>
+<phi Z="3.362962"/>
 </Ankerpunkt>
 <Ankerpunkt AnkerKat="2" Beschreibung="Zsig S1" Farbe="00FFFF00">
 <p X="659.276" Y="-1033.499" Z="398"/>
@@ -416,7 +416,7 @@
 </Ankerpunkt>
 <Ankerpunkt AnkerKat="2" Beschreibung="Zsig S2" Farbe="00FFFF00">
 <p X="658.2419" Y="-1037.8929" Z="398"/>
-<phi Z="2.844216"/>
+<phi Z="2.844217"/>
 </Ankerpunkt>
 <Ankerpunkt AnkerKat="2" Beschreibung="Zsig R8" Farbe="00FFFF00">
 <p X="339.6071" Y="-940.9449" Z="398"/>
@@ -424,7 +424,7 @@
 </Ankerpunkt>
 <Ankerpunkt AnkerKat="2" Beschreibung="Zsig R9" Farbe="00FFFF00">
 <p X="341.662" Y="-937.028" Z="398"/>
-<phi Z="2.762494"/>
+<phi Z="2.762495"/>
 </Ankerpunkt>
 <Ankerpunkt AnkerKat="2" Beschreibung="Zsig R10" Farbe="00FFFF00">
 <p X="343.79" Y="-933.7729" Z="398"/>
@@ -432,7 +432,7 @@
 </Ankerpunkt>
 <Ankerpunkt AnkerKat="2" Beschreibung="Zsig R11" Farbe="00FFFF00">
 <p X="306.469" Y="-912.58" Z="398"/>
-<phi Z="2.762492"/>
+<phi Z="2.762491"/>
 </Ankerpunkt>
 <Ankerpunkt AnkerKat="2" Beschreibung="Asig P11" Farbe="00FFFF00">
 <p X="-214.9021" Y="-588.993" Z="398"/>
@@ -468,11 +468,11 @@
 </Ankerpunkt>
 <Ankerpunkt AnkerKat="2" Beschreibung="Ls" Farbe="00FFFF00">
 <p X="529.228" Y="-999.095" Z="398"/>
-<phi Z="2.800664"/>
+<phi Z="2.800663"/>
 </Ankerpunkt>
 <Ankerpunkt AnkerKat="2" Beschreibung="Ls" Farbe="00FFFF00">
 <p X="516.078" Y="-1004.149" Z="398"/>
-<phi Z="2.762494"/>
+<phi Z="2.762495"/>
 </Ankerpunkt>
 <Ankerpunkt AnkerKat="2" Beschreibung="Ls" Farbe="00FFFF00">
 <p X="560.1428" Y="-1003.939" Z="398"/>
@@ -492,15 +492,15 @@
 </Ankerpunkt>
 <Ankerpunkt AnkerKat="2" Beschreibung="Vsig Sbk 11v" Farbe="00FFFF00">
 <p X="719.803" Y="1433.3621" Z="411.0934"/>
-<phi Z="1.847132"/>
+<phi Z="1.847133"/>
 </Ankerpunkt>
 <Ankerpunkt AnkerKat="2" Beschreibung="Vsig Sbk 11vw" Farbe="00FFFF00">
 <p X="441.6121" Y="2181.155" Z="416.4703"/>
-<phi Z="2.334258"/>
+<phi Z="2.334257"/>
 </Ankerpunkt>
 <Ankerpunkt AnkerKat="2" Beschreibung="Sbk11" Farbe="00FFFF00">
 <p X="277.072" Y="2298.175" Z="417.821"/>
-<phi Z="2.643309"/>
+<phi Z="2.64331"/>
 </Ankerpunkt>
 <Ankerpunkt AnkerKat="2" Beschreibung="Lf7 Kz. 9" Farbe="00FFFF00">
 <p X="592.621" Y="1880.551" Z="414.2021"/>
@@ -520,7 +520,7 @@
 </Ankerpunkt>
 <Ankerpunkt AnkerKat="2" Beschreibung="Sbk12" Farbe="00FFFF00">
 <p X="58.927" Y="2393.865" Z="419.4124"/>
-<phi Z="-0.445938"/>
+<phi Z="-0.445939"/>
 </Ankerpunkt>
 <Ankerpunkt AnkerKat="2" Beschreibung="Vsig Gv" Farbe="00FFFF00">
 <p X="980.582" Y="485.061" Z="404.5153"/>
@@ -600,7 +600,7 @@
 </Ankerpunkt>
 <Ankerpunkt AnkerKat="2" Beschreibung="Ls" Farbe="00FFFF00">
 <p X="1194.817" Y="-952.488" Z="398"/>
-<phi Z="0.752182"/>
+<phi Z="0.752183"/>
 </Ankerpunkt>
 <Ankerpunkt AnkerKat="2" Beschreibung="Kran?" Farbe="00FFFF00">
 <p X="1321.139" Y="-768.7841" Z="397.9517"/>
