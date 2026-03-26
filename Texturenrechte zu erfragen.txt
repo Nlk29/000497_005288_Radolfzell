@@ -1,0 +1,5 @@
+Routes\Deutschland\32U_0006_0058\000565_005804_Lehrte_West\Objekte\LehrteZentrum02\LehrteNZ_West\LehrteZentrum_West_Holzdecke.dds
+Terrain\Deutschland\Bahnuebergang\BUe_Holzbohlen_Drehkreuz\bue_bohlenweg1m.dds
+Routes\Deutschland\32U_0006_0058\000583_005798_Peine_West\Objekte\Stahlwerk\Dach.dds
+Routes\Deutschland\32U_0006_0058\000587_005811_Plockhorst\Objekte\Bahnhofsbruecke\P_Gebaede.dds
+Routes\Deutschland\32U_0005_0057\000533_005687_Harleshausen\Objekte\Harleshausen_11_Wohnhaeuser\Harlsehausen_11.dds

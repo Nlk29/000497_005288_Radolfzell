@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1"/>
+<Landschaft>
+<lsb Dateiname="Radolfzell_Kohlenbansen.lod2.lsb"/>
+<SubSet Cd="FFFFFFFF" MeshV="2521" MeshI="3912">
+<RenderFlags TexVoreinstellung="1"/>
+<Textur>
+<Datei Dateiname="Kohlenbansen_Radolfzell.dds"/>
+</Textur>
+</SubSet>
+</Landschaft>
+</Zusi>

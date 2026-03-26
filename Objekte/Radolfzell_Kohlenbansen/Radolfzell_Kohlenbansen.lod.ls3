@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Landschaft" Version="A.3" MinVersion="A.1"/>
+<Landschaft>
+<Verknuepfte Flags="16" BoundingR="110" SichtbarAb="250" SichtbarBis="1200" Vorlade="1" LODbit="1">
+<Datei Dateiname="Radolfzell_Kohlenbansen.lod3.ls3"/>
+<p/>
+<phi/>
+<sk/>
+</Verknuepfte>
+<Verknuepfte Flags="16" BoundingR="110" SichtbarBis="250" Vorlade="1" LODbit="15">
+<Datei Dateiname="Radolfzell_Kohlenbansen.lod2.ls3"/>
+<p/>
+<phi/>
+<sk/>
+</Verknuepfte>
+</Landschaft>
+</Zusi>
